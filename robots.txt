@@ -1,0 +1,2 @@
+Sitemap: http://www.steezie.nl/sitemap.xml
+User-agent: * Disallow: /directory-x Disallow: /directory-y
